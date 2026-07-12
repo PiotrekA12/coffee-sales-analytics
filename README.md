@@ -21,7 +21,14 @@ Power BI & DAX: Budowa wydajnego modelu danych w architekturze płaskiej bazy, i
 
 1. Panel Strategiczny (Executive Sales Overview): Analiza trendów przychodów, KPI oraz struktury sprzedaży w czasie.
 
+<img width="1331" height="749" alt="image" src="https://github.com/user-attachments/assets/6b9defd9-29aa-41d9-ae05-29a5caebbae6" />
+
+
 2. Panel Operacyjny (Operational Insights): Szczegółowe zarządzanie grafikami pracy personelu oraz łańcuchem dostaw.
+<img width="1305" height="733" alt="image" src="https://github.com/user-attachments/assets/0e249951-c3b1-4109-b533-560bada48d7d" />
+
+
+
 
 **Kluczowe Osiągnięcia Techniczne**
 
